@@ -5,3 +5,7 @@ C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\obj\Debug\
 C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\obj\Debug\net6.0\Algoritms_.dll
 C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\obj\Debug\net6.0\refint\Algoritms_.dll
 C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\obj\Debug\net6.0\Algoritms_.pdb
+C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\bin\Debug\net6.0\Algoritms_.deps.json
+C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\bin\Debug\net6.0\Algoritms_.dll
+C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\bin\Debug\net6.0\Algoritms_.pdb
+C:\Users\ManuelAlejandro\source\repos\Algoritms\Algoritms_\Algoritms_\obj\Debug\net6.0\ref\Algoritms_.dll
